@@ -7,4 +7,4 @@
 /build
 /captures
 .externalNativeBuild
-/src/main/java/jdmz/jdmz/CAUMZConfig.java
+/app/src/main/java/jdmz/jdmz/CAUMZConfig.java
